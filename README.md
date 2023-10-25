@@ -14,7 +14,6 @@ A simple but powerful real-time chat server built with Node.js, Express.js, and 
 - Real-time message broadcasting
 - Dynamic user registration
 - Private and group messaging
-- Intuitive and responsive user interface
 
 ## Installation
 ### Prerequisites
@@ -43,15 +42,7 @@ A simple but powerful real-time chat server built with Node.js, Express.js, and 
 ## Usage
 1. Register a username by typing it into the 'Register User' input box and clicking 'CONNECT AS'.
 2. Send a public message by typing it into the 'Send a message' input box and clicking 'SEND'.
-3. Use the 'CLEAR' button to clear the chat history.
+3. Send a private message to a single user with 'Name: your msg' or group private msg: 'Name1, Name2: your msg' 
+4. Use the 'CLEAR' button to clear the chat history.
 
-## Contributing
-If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
-
-## License
-MIT
-
-## Contact
-For any questions, feel free to reach out:  
-Email: [your-email]  
-LinkedIn: [your-linkedin-profile]
+## Enjoy
